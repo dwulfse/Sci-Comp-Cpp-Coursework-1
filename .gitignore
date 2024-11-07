@@ -1,3 +1,7 @@
+# Environment
+/.vscode
+/_MACOSX
+
 # Prerequisites
 *.d
 
